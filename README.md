@@ -8,7 +8,7 @@ O filme possui algumas cenas onde o Ethan Hunt (Tom Cruise) precisa passar por s
 
 Materiais que serão utilizados:
 
-​- arduino
+- arduino
 - protoboard
 - laser
 - sensor ldr
